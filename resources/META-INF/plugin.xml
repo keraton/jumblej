@@ -2,7 +2,7 @@
     <id>com.github.keraton.jumblej</id>
     <name>Jumble for IntelliJ</name>
     <version>1.0</version>
-    <vendor email="keratonjava@github.com" url="http://www.yourcompany.com">Keraton</vendor>
+    <vendor email="keratonjava@github.com" url="https://github.com/keraton">Keraton</vendor>
 
     <description><![CDATA[
       Jumble J to run your Test With Jumble easily.<br>
